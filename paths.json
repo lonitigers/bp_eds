@@ -5,6 +5,6 @@
     "/content/bp_eds/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/bp_eds/"
   ]
 }
